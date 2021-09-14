@@ -1,6 +1,6 @@
-# Title
+# Chatbot
 
-Simple (or clever and funny?) description
+Simple chat bot that can play trivia and wyr
 
 ## Table of Contents
 
@@ -12,14 +12,14 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+An elite program qualifier project
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Runs on python
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+WHile to code is running, tpye in one the options given to you in the code to start up the chatbot
 
 ### Any optional sections
