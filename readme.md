@@ -1,6 +1,6 @@
 # Chatbot
 
-Simple chat bot that can play trivia and wyr!
+Simple chat bot that can play trivia and wyr!!
 
 ## Table of Contents
 
